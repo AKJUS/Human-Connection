@@ -44,7 +44,7 @@
     "faker": "Marak/faker.js#master",
     "graphql-request": "^1.8.2",
     "import": "^0.0.6",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mock-socket": "^9.0.3",
     "neo4j-driver": "^4.0.2",
     "neode": "^0.3.7",
